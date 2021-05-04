@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleAsyncJobServer": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
